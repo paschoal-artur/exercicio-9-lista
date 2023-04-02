@@ -6,4 +6,4 @@ celsius = ((temp - 32) / 9) * 5
 celsius = int(celsius)
 
 #Printing to the user
-print(f"The temperature in Celsius where you are is {celsius}°")
+print(f"The temperature in Celsius where you are is {celsius}°C")
